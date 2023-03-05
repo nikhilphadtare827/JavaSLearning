@@ -44,3 +44,4 @@ for (let index = str.length; index >=0; index=index+1) {
    }
      firstwordLength("Focus is the key");
      console.log(`First word--> ${firstword} length is : ${firstword.length}`);
+           
